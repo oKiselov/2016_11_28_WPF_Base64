@@ -22,7 +22,7 @@
         <TextBox Grid.Column="0" Grid.Row="2" Name="TextBoxConvertTo"></TextBox>
         <StackPanel Grid.Column="0" Grid.Row="0">
             <RadioButton Content="From Text toooooo" Name="RadioButtonTo"/>
-            <RadioButton Content="From Base64" Name="RadioButtonFrom"/>
+            <RadioButton Content="From Base64 dfddd" Name="RadioButtonFrom"/>
         </StackPanel>
     </Grid>
 </Window>
