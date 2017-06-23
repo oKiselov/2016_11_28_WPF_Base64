@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kiselov_HW_WPF_Base64"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="570">
+        Title="MainWindow" Height="450" Width="570">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="80*"/>
@@ -21,8 +21,8 @@
         <TextBox Grid.Column="0" Grid.Row="1" Name="TextBoxConvertFrom"></TextBox>
         <TextBox Grid.Column="0" Grid.Row="2" Name="TextBoxConvertTo"></TextBox>
         <StackPanel Grid.Column="0" Grid.Row="0">
-            <RadioButton Content="From Text" Name="RadioButtonTo"/>
-            <RadioButton Content="From Base64" Name="RadioButtonFrom"/>
+            <RadioButton Content="From Text ererer" Name="RadioButtonTo"/>
+            <RadioButton Content="From Base64 erere" Name="RadioButtonFrom"/>
         </StackPanel>
     </Grid>
 </Window>
